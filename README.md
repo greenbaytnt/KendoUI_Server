@@ -27,7 +27,7 @@ description: "This sample demonstrates a vanilla JavaScript single-page applicat
  1. [Contributing](#contributing)
 
 ## Overview
-https://drive.google.com/drive/folders/1QwNE_XrCobtR3poTy-K5dN29r3tU80UR?usp=sharing
+https://drive.google.com/drive/folders/1F_vBKiLSOHaW1cQobrWzfwtxMx1wJO7W?usp=sharing
 This sample demonstrates a vanilla JavaScript single-page application (SPA) that lets users authenticate against [Azure Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) (Azure AD B2C) using the [Microsoft Authentication Library for JavaScript](https://github.com/AzureAD/microsoft-authentication-library-for-js) (MSAL.js) and authorize them to call a web API that is also protected by **Azure AD B2C**. This sample also demonstrates sign-up/sign-in, password reset and profile edit [user-flows](https://docs.microsoft.com/azure/active-directory-b2c/user-flow-overview).
 
 ## Scenario
